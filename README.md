@@ -2,7 +2,7 @@
 
 ## 📌 Project Objective
 
-This project aims to showcase a single-page website for an online learning platform using basic HTML elements. It includes semantic structuring, media embedding, forms, tables, and proper layout.
+This project aims to showcase a single-page website for an online learning platform using basic HTML elements. It includes semantic structuring, media embedding, forms, tables.
 
 ## 🌐 Features Included
 
