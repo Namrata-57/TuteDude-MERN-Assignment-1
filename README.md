@@ -22,3 +22,8 @@ This project aims to showcase a single-page website for an online learning platf
 - Form inputs
 - Table structure
 
+This project is deployed on Netlify.
+
+👉 Visit here: [https://tutedude-mern-assignment-1.netlify.app/]
+
+(No installation required – it runs directly in your browser.
